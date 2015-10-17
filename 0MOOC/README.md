@@ -7,3 +7,4 @@
 - 搭建python3.4环境
 - 搭建git环境
 - 搭建gitbook环境
+- 实现gitbook和git双推
